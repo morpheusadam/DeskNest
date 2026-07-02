@@ -5,10 +5,10 @@
 ### A self-hosted PHP help desk and customer support ticketing script — multi-language, RTL-ready, with email & SMS notifications and a secure, robust codebase.
 
 <p>
-  <img src="https://img.shields.io/github/stars/morpheusadam/php-Tickets?style=for-the-badge&color=ffca28" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/morpheusadam/php-Tickets?style=for-the-badge&color=42a5f5" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/morpheusadam/php-Tickets?style=for-the-badge&color=8e44ad" alt="Last commit" />
-  <img src="https://img.shields.io/github/repo-size/morpheusadam/php-Tickets?style=for-the-badge&color=e67e22" alt="Repo size" />
+  <img src="https://img.shields.io/github/stars/morpheusadam/DeskNest?style=for-the-badge&color=ffca28" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/morpheusadam/DeskNest?style=for-the-badge&color=42a5f5" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/morpheusadam/DeskNest?style=for-the-badge&color=8e44ad" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/morpheusadam/DeskNest?style=for-the-badge&color=e67e22" alt="Repo size" />
   <img src="https://img.shields.io/badge/version-2.3-0A7BBB?style=for-the-badge" alt="Version 2.3" />
 </p>
 
@@ -113,7 +113,7 @@ php-Tickets/
 
 ## 🤝 Contributing
 
-Issues and suggestions are welcome via the [issue tracker](https://github.com/morpheusadam/php-Tickets/issues). Please respect the licensing terms below before redistributing or modifying the script.
+Issues and suggestions are welcome via the [issue tracker](https://github.com/morpheusadam/DeskNest/issues). Please respect the licensing terms below before redistributing or modifying the script.
 
 ## 📜 License & Rights
 
@@ -142,8 +142,8 @@ Web developer & cheerful hacker · PHP · Laravel · Go
 
 ## ⭐ Star History
 
-<a href="https://star-history.com/#morpheusadam/php-Tickets&Date">
-  <img src="https://api.star-history.com/svg?repos=morpheusadam/php-Tickets&type=Date" alt="php-Tickets — Star History Chart" width="70%" />
+<a href="https://star-history.com/#morpheusadam/DeskNest&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/DeskNest&type=Date" alt="php-Tickets — Star History Chart" width="70%" />
 </a>
 
 <div align="center">
