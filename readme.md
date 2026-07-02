@@ -1,7 +1,5 @@
 <div align="center">
-
-# 🎫 PHP Tickets — Professional Support & Ticketing System
-
+# 🎫 Desk Nest — Professional Support & Ticketing System
 ### A self-hosted PHP help desk and customer support ticketing script — multi-language, RTL-ready, with email & SMS notifications and a secure, robust codebase.
 
 <p>
