@@ -136,3 +136,20 @@ Web developer & cheerful hacker · PHP · Laravel · Go
 ⭐ **If this support system helped your team, consider giving it a star!** ⭐
 
 </div>
+
+
+---
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#morpheusadam/php-Tickets&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/php-Tickets&type=Date" alt="php-Tickets — Star History Chart" width="70%" />
+</a>
+
+<div align="center">
+
+### If this project helps you, please give it a ⭐
+
+A star helps other developers discover **php-Tickets** and supports continued development.
+
+</div>
